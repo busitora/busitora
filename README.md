@@ -9,7 +9,7 @@ Hi, i'm busitora, software engineer working in Tokyo,Japan. <br>
 
 work in progress...!
 
-[busitora blog](https://busitora-blog.netlify.app/ja/)
+[busitora blog](https://busitora.blog/)
 
 [メガベンチャーからスタートアップに転職して3ヶ月が経過した](https://zenn.dev/overflow_offers/articles/20220721-three-months-have-passed#fn-acd0-4)
 
