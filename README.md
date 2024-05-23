@@ -12,9 +12,3 @@ work in progress...!
 [busitora blog](https://busitora.blog/) → 技術＆ポエム系
 
 [Zenn](https://zenn.dev/busitora) → Scrap多め
-
-[メガベンチャーからスタートアップに転職して3ヶ月が経過した](https://zenn.dev/overflow_offers/articles/20220721-three-months-have-passed#fn-acd0-4)
-
-[Ruby on Rails における権限Gem まとめ と GlobalState](https://zenn.dev/overflow_offers/articles/20221003-authority_ruby_gem)
-
-[Datadog Synthetics Test 導入フロー](https://zenn.dev/overflow_offers/articles/20220822-datadog-synthetics-test-introduction)
