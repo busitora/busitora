@@ -10,5 +10,3 @@ Hi, i'm busitora, software engineer working in Tokyo,Japan. <br>
 work in progress...!
 
 [busitora blog](https://busitora.blog/) → 技術＆ポエム系
-
-[Zenn](https://zenn.dev/busitora) → Scrap多め
