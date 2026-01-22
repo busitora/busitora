@@ -4,11 +4,3 @@ Hi, i'm busitora, software engineer working in Tokyo,Japan. <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busitora&theme=radical) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=busitora&column=9)](https://github.com/busitora/github-profile-trophy)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,ruby,rails,graphql,react,vue,next,docker,mysql,postgresql,redis,github)](https://skillicons.dev)
-
-## blog
-
-work in progress...!
-
-[busitora blog](https://busitora.blog/) → 技術＆ポエム系
-
-[Zenn](https://zenn.dev/busitora) → Scrap多め
